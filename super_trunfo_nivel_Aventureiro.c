@@ -6,9 +6,9 @@ int main(){
      
       
      if(populaçao1 > populaçao2){
-        printf("populaçao 2 Venceu...\n");
+        printf("populaçao 1 Venceu...\n");
      } else if (populaçao1 < populaçao2){
-        printf("A populaçao 1 Venceu...\n");
+        printf("A populaçao 2 Venceu...\n");
      } else {
         printf("Não houver um empate!!!...\n");
      }
